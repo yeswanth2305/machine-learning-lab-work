@@ -1,6 +1,6 @@
 import pandas as pd
 import math
-
+import pandas as pd
 
 def calculate_entropy(data, target_col):
     total = len(data)
